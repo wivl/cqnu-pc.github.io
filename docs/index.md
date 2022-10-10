@@ -5,7 +5,6 @@ heroText: 💻 Pc 协会技术栈
 tagline: 📖  让本技术栈来为你提供帮助吧  ❤️️
 
 pageClass: vdoing-index-class
-# bannerBg: /background/62494753_p0.jpg
 bannerBg: https://api.paugram.com/wallpaper
 
 features:
