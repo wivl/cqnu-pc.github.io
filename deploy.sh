@@ -13,7 +13,7 @@ else
   git config --global user.email "2020051615308@stu.cqnu.edu.com"
 fi
 
-git pull
+git pull $githubUrl main
 
 git checkout main
 
